@@ -1,4 +1,8 @@
 # busybox Doc 2025
+![License](https://img.shields.io/badge/license-GPLv2-blue.svg)
+![Repo Size](https://img.shields.io/github/repo-size/SahrulGunawan-ID/busybox)
+![Last Commit](https://img.shields.io/github/last-commit/SahrulGunawan-ID/busybox)
+![Stars](https://img.shields.io/github/stars/SahrulGunawan-ID/busybox?style=social)
 
 #Old Version 
 Version busybox-1.29.0
